@@ -1,8 +1,7 @@
 # yfinance-corporate-actions-prices
 Get historical dividends, splits, capital gains distributions, and prices for a set of symbols from Yahoo Finance.
 
-Install:
-  `pip install yfinance pandas`
+It depends on `yfinance` and `pandas`.
 
 `python xget_actions_prices.py` gives
 
